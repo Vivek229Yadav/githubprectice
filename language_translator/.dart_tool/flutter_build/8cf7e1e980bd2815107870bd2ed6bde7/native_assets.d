@@ -1,0 +1,1 @@
+ C:\\Users\\Vivek\ Yadav\\OneDrive\\Desktop\\Flutter_project\\language_translator\\.dart_tool\\flutter_build\\8cf7e1e980bd2815107870bd2ed6bde7\\native_assets.yaml: 
